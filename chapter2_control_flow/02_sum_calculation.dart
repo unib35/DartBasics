@@ -1,7 +1,7 @@
 void main() {
   int sum = 0;
 
-  // 1for 반복문 사용
+  // for 반복문 사용
   for (int i = 1; i <= 10; i++) {
     sum += i;
   }
